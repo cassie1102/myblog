@@ -88,7 +88,7 @@ $ git push origin master
 Create a Github repository named as **username** + 'github.io' and git clone it to the '/projects' folder. Then do "git pull origin master" to keep your branch up to date. My repository name is 'cassie1102.github.io'. Under '/blog' folder, type:
 
 ```{shell}
-$ hugo -d ../cassie1102.github.
+$ hugo -d ../cassie1102.github.io
 $ cd ../cassie1102.github.io
 ```
 Then use git add, commit and push the changes to the repository. Under the 'Settings' button of the repository, you can see the link to your personal website within the 'Github Pages' section.
